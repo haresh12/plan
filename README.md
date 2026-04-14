@@ -1,3 +1,4 @@
+[PLAN.md.pdf](https://github.com/user-attachments/files/26696280/PLAN.md.pdf)
 
 ConvoWork — Hackathon Master Plan
 Absence Case Management AI · 3 People · 12 Hours · Slides + Live Demo
